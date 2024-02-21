@@ -1,11 +1,12 @@
-hi, i'm Bima Aristo, a passionate Instrumentation & Systems student with diverse engagements in arts, physics, and engineering. Proficient in Python, SQL, and C++ with great data analytics, customer relations, and database management systems with professional business, performing arts, and leadership experience.
+hi!
+i'm bima, a passionate instrumentation & systems student with diverse arts, physics, and engineering engagements. Proficient in Python, SQL, and C++ with great data analytics, customer relations, and database management systems with professional business, performing arts, and leadership experience.
 
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-##### me
+##### self
 
 > when life doesn't give you flowers, plant them.
 ####
