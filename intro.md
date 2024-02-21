@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @sxiera
+hi, i'm Bima Aristo, a passionate Instrumentation & Systems student with diverse engagements in arts, physics, and engineering. Proficient in Python, SQL, and C++ with great data analytics, customer relations, and database management systems with professional business, performing arts, and leadership experience.
 
+**languages and tools:**  
 
-<!---
-sxiera/sxiera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+##### me
+
+> when life doesn't give you flowers, plant them.
+####
+<a href="https://www.instagram.com/bimaaristo/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/bimaaristo/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/sxiera" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
