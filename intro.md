@@ -11,6 +11,8 @@ i'm bima, a passionate instrumentation & systems student with diverse arts, phys
 
 > when life doesn't give you flowers, plant them.
 ####
+💬 connect with me!
+
 <a href="https://www.instagram.com/bimaaristo/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
 <a href="https://www.linkedin.com/in/bimaaristo/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/sxiera" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="30"></a>
