@@ -1,6 +1,6 @@
 hi!
 
-i'm bima, a passionate instrumentation & systems student with diverse arts, physics, and engineering engagements. Proficient in Python, SQL, and C++ with great data analytics, customer relations, and database management systems with professional business, performing arts, and leadership experience.
+i'm bima, an instrumentation & systems student! I do code using Python, SQL, and C++ :D
 
 **languages and tools:**  
 
