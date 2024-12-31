@@ -1,6 +1,6 @@
 hi!
 
-i'm bima, an instrumentation & systems student! I do code using Python, SQL, and C++ :D
+im bima, a robotics and ai anthusiast! i work recently with AI, ML, DL, and RL! 
 
 **languages and tools:**  
 
